@@ -17,4 +17,4 @@ USER jenkins
 ENV PATH=$PATH:/google-cloud-sdk/bin
 EXPOSE 80
 EXPOSE 8080
-EXPOSE 50000
+EXPOSE 50000 
